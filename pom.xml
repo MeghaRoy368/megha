@@ -6,6 +6,8 @@
     <modules>
         <module>jwt-service</module>
         <module>projectairwatcher</module>
+        <module>FavouriteService</module>
+        <module>recommendcity-service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FavouriteService/FavouriteService.iml" filepath="$PROJECT_DIR$/FavouriteService/FavouriteService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommendcity-service/RecommendCity-Service.iml" filepath="$PROJECT_DIR$/recommendcity-service/RecommendCity-Service.iml" />
       <module fileurl="file://$PROJECT_DIR$/projectairwatcher/airwatcher-service.iml" filepath="$PROJECT_DIR$/projectairwatcher/airwatcher-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/jwt-service/jwt-service.iml" filepath="$PROJECT_DIR$/jwt-service/jwt-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/newproject.iml" filepath="$PROJECT_DIR$/.idea/newproject.iml" />
